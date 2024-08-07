@@ -1,0 +1,1 @@
+cmd_/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/ch422g.mod := { echo  /home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/ch422g.o;  echo; } > /home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/ch422g.mod

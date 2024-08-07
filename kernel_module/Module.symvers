@@ -1,0 +1,6 @@
+0xfbcba51d	I2c_RdByte	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	
+0x8570efca	free_i2c_lock	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	
+0x53202c25	I2c_Stop	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	
+0x6f6b10df	get_i2c_lock	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	
+0x95407933	I2c_Start	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	
+0xf9fb2f43	I2c_WrByte	/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/softi2c	EXPORT_SYMBOL	

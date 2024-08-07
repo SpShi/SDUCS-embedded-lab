@@ -1,0 +1,1 @@
+cmd_/home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/Module.symvers := sed 's/ko$$/o/' /home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/modules.order | scripts/mod/modpost -m    -o /home/spshi/Desktop/loongson/codes/Loongson-2k500-main/merge_all/kernel_module/Module.symvers -e -i Module.symvers   -T -
