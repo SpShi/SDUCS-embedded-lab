@@ -1,1 +1,3 @@
-# SDUCS-embedded-lab
+# SDUCS大三下限选 嵌入式系统原理与应用
+
+龙芯2k500
